@@ -302,6 +302,7 @@ line-height: 1.6;
 }
 .navbar-transparent .navbar-nav li a {
     color: #FFFFFF;
+    font-size: 1.2em;
 }
 .navbar-transparent .navbar-nav li a:hover {
     background-color: #FFFFFF;
