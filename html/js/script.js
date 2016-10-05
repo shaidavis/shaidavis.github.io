@@ -226,9 +226,11 @@ $(document).ready(function() {
                 return false;
             });
         }
-        if ($portfolioItems.length) {
-            portfolioInit();
-        }
+
+        //I EDITED THESE LINES OUT IN ORDER TO ALLOW LINKS TO EXTERNAL SITES, RATHER THAN TRIGGER THE PORTFOLIO POPUP
+        // if ($portfolioItems.length) {
+        //     portfolioInit();
+        // }
     };
 
 
