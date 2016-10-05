@@ -398,11 +398,11 @@ line-height: 1.6;
   color:#ffffff;
 }
 .header .heading {
-    font-family: 'Source Sans Pro', helvetica, arial, sans-serif;
+    font-family: 'Space Mono', helvetica, arial, sans-serif;
     display: block;
     font-size: 32px;
     font-weight: 700;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     width: 100%; 
     letter-spacing: 1px;   
 }
