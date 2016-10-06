@@ -23,7 +23,7 @@ var mapOptions = {
   var marker = new google.maps.Marker({
       position: myLatLng,
       map: map,
-      // icon: 'html/img/location-icon.png',
+      icon: 'img/location-icon.png',
 	  title: '',
   });
   
